@@ -1,0 +1,8 @@
+div{
+    display:flex;
+    line-height: 200px;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    
+}
